@@ -397,7 +397,7 @@ img{
 .contactInfoBx .box .text a{
     text-decoration: none;
 }
-.contactInfoBx .box .text a:visited, a:link{
+.contactInfoBx .box .text a:visited a:link{
     color: #fff;
     text-decoration: none;
 }
