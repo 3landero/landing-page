@@ -453,6 +453,7 @@ img{
     header.sticky{
         padding: 20px 50px;
         z-index: 1000;
+        color: #000;
     }
     .menu {
         position: fixed;
@@ -603,6 +604,7 @@ img{
     header,
     header.sticky{
         padding: 20px 20px;
+        color: #111;
     }
 
     #about {
