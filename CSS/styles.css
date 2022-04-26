@@ -9,6 +9,11 @@
     scroll-behavior: smooth;
 }
 
+.contact-link {
+    color: #fff;
+    text-decoration: none;
+}
+
 showcase{
     position: relative;
     right: 0;
@@ -403,6 +408,7 @@ img{
 }
 
 
+
 /* .formBx form input,
 .formBx form textarea 
 {
@@ -703,3 +709,6 @@ img{
     margin-right: -4px;
 
 }
+
+
+
